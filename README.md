@@ -1,2 +1,2 @@
 # ingridluz.github.io
-Personal website.
+Personal website for my design work.
